@@ -30,11 +30,6 @@
 				<configuration>
 					<warName>rest</warName>
 					<warSourceDirectory>WebContent</warSourceDirectory>
-					<archive>
-						<manifest>
-							<addClasspath>true</addClasspath>
-						</manifest>
-					</archive>
 				</configuration>
 			</plugin>
 		</plugins>
